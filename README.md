@@ -14,4 +14,19 @@ Program ini memiliki 1 tabel, yaitu pasien. Tabel ini memiliki 8 atribut, yaitu 
 4. Jika user ingin memperbaharui data pasien, user dapat menekan tombol update di kolom action pada tabel pasien. Kemudian user dapat mengubah form yang diperlukan.
 
 ## Dokumentasi
-1. 
+1. Halaman Home
+
+![Screenshot (333)](https://github.com/bwbayu/LP11DPBO2023C2/assets/100755457/d9ce363d-725d-4afe-a0a7-483beab00ff3)
+
+
+2. Halaman Add Data
+
+![Screenshot (334)](https://github.com/bwbayu/LP11DPBO2023C2/assets/100755457/b9a12c59-979f-4920-bc7e-7f89d3036c07)
+
+
+3. Halaman Update Data
+
+![Screenshot (335)](https://github.com/bwbayu/LP11DPBO2023C2/assets/100755457/42126290-701a-4f85-8c42-2691124fa04c)
+
+
+- Preview
